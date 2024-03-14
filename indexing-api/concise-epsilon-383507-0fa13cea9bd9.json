@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "concise-epsilon-383507",
+  "private_key_id": "0fa13cea9bd96bf46cbc216b571783d1bad03295",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDZFfQmNjBjqxyi\nVTlUqG17RdYrPaIMxy4cisJ25xnd2SAn33efZSfMc3f9sS6dB8kv6Luk8m9jUbm/\n2tIu/ZRvMAmKAYaZBWmmrxdljIpaeGmrSshO9WrzilX/CM0jRRNTwKubq41jYsXp\nJCQMTZ/0MV3WKKqmoo5UO3v5pYUguPXCybxggJJT5ZUxIS+/AIivQJPm+l6sEfD8\nAwV1VC+tKBVvq52/82ENeQ8h7wcbo+Necl05vv4wz8g/lqAMSDq/iLZIWm+tRrMG\nlCmwcMB5ThLp8ryfB1wFkjQsdx+1PNuLzQyTETZK7GmadPjJZZbu5++aol7A6UH5\nMRMkDgZ5AgMBAAECgf9wJSc7lkLpOjxQoDY9xcTJKgq5y90rPLpVhFlxk3GJaeFy\nt77UWS12MTCLnjy2Yo9McK5/R77DUDTlJ+Xs4JMN3YMQCDnAU0uBEHLFwxS2J/5u\nvvM71wypQ42pcqKG1ehmG+KLSNSBw0T6a/EzaeZ4AAi52chOzSs52IDzNs7PV8mg\nQdu5DSaQJ4EATBLA9DNhZvjHcu2w77oJUU0S9qNoOzx5mylEHnf1NCePRowyfomV\nfUnD8//+Tl1c4yyq6hn3oyEqAD0jAvbC6tW8sqwmwk43xCSU5880qGPXYGSYDh7w\nG64oir+VUaIHSM2JOAUfDdkzuWijw1yiWYl11wECgYEA+gxoZt3FbJ96vFR/cDVZ\nrAKOXJsCzrvKaOQRfzpW6YzP042P/8KNihiI88qW+L+OMMM+werNkKixFR08mxc+\nO+UfDQtmJHH0CbIbFgLx9dfPB518ERVrYABTXhgfiqX6JK2cL7haoYYxXCMrqCYF\nNhK571ad8Q/28PpYTMC/rIECgYEA3kCyqjy8XCrf1DSbzAV8XTy1Z9KnT8nTjASA\nHW1KSrt0iCNCjUy0RC05cmxJ0HgSVv3fKor3sGr5tjHVWYnq/KmOvH8AGKLiMcEa\nhhIW69RxF+z9eQTrE4SVRlp68JRxPWoWgGQ0GZt3XhgcosU1rxUj5aM2DxqYTVKk\nLdVEvfkCgYEAybMykC+6bimi9sHuXpQadn9FWPwNYrfmyX+XgZqMuy5EArGBg9zr\nEYdDCezUpWjXiQwl1oTSNytsVMzVs4EnSWdECeC1DxcAtMV/xdywUxA3RzxI9Prj\nN3hrx04MO2oxgl6sy22ZZgv6Swlv0N6Ce6DVbXPgSbEIEFDQ43Dj7IECgYAGqRGx\noFhUusQya9EvcAqmEKevENUKwxWf4JKmTxwm2S9I1SWtblsIoAJUt4IOyUpjaQBD\nGh8KHmqVVzD5mfR81ef9JiEum9MDgrH0yp39O0SYXvXJpqgU0ahXj2aXxxsNqBw8\nhMQ68DnHjBlvl1FgidWlkBqSoU1nI87fwMBqoQKBgFCCnlAX7T7CAhc2aGYIJ3Bx\nBnCtknfKcftwSe3sE8Rgn2xQTLz6yHaq2LY8xkrnVoeWsx2pgX0DbUT1fL45GFtw\nWLWhl/mZxYqFoB3TjcqF3WsXxi53XkybO5X3Ga8+d6KHwx5o3FW3COD0/T+MqSF1\nce2dCyfu9NPPm+lwPAdf\n-----END PRIVATE KEY-----\n",
+  "client_email": "gazetevatan-index-api-account@concise-epsilon-383507.iam.gserviceaccount.com",
+  "client_id": "116243624103848160457",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gazetevatan-index-api-account%40concise-epsilon-383507.iam.gserviceaccount.com"
+}
